@@ -1,0 +1,251 @@
+body{
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+    display: block;
+    max-width: 100%;
+}
+.container{
+    max-width: 600px;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    font-size:25px;
+    position: relative;
+    text-align: center;
+    padding:5px;
+    margin: 5px  auto;
+}
+.menu{
+    font-size: 18px;
+    color: black;
+    position:relative;
+    padding: 5px;
+    margin: 5px auto;
+}
+h2{
+    font-size: 18px;
+    position: relative;
+    text-align: center;
+    padding: 5px;
+    margin: 0 auto;
+}
+p{
+    font-size:15px;
+    position: relative;
+    padding: 0px;
+    margin: 0 auto;
+}
+h6{
+    font-size: 15px;
+    position: relative;
+    text-align: center;
+    padding: 5px;
+    margin: 0 auto;
+}
+h3{
+    font-size: 30px;
+    position: relative;
+    padding: 5px;
+    margin: 5px auto;
+}
+.goHome{
+    font-size: 27px;
+    font-style: italic;
+    color: purple;
+    position: relative;
+    padding: 0px;
+    margin: 10px auto;
+}
+.collection{
+    font-size: 22px;
+    color: black;
+    position: relative;
+    padding: 0px;
+    margin: 0px auto;
+}
+
+
+.newsletter{
+    font-size: 18px;
+    border: 20px solid lightgrey;
+    background-color: lightgray;
+    text-align: center;
+    position: relative;
+    padding: 10px;
+    margin: 10px auto;
+}
+.button{
+    display: inline;
+    margin: 0 auto;
+    font-size: 18px;
+    padding: 14px 25px;
+    border:none;
+    border-radius: 30px;
+  
+}
+button:hover{
+    cursor:pointer}
+
+.footer{
+
+    color: black;
+    padding: 0px;
+    margin: 0 auto;}
+ 
+
+li{
+    font-size: 15px;
+    list-style-type: none;
+    color:black;
+    position: relative;
+    padding: 0px;
+    margin: 0 auto;
+    
+}
+
+.help{
+    font-size: 15px;
+    color:black;
+    position: relative;
+    padding: 0px;
+    margin: 0 auto;
+}
+#instagram{
+    font-size: 30px;
+    color: deeppink;
+    position: relative;
+    left: 30px;
+    padding: 5px;
+    margin: 0 auto;
+}
+#facebook{
+    font-size: 30px;
+    color: blue;
+    position: relative;
+    left: 30px;
+    padding: 5px;
+    margin: 0 auto;
+    }
+#twitter{
+    font-size: 30px;
+    color: rgba(29,161,242,1.00);
+    position: relative;
+    left: 33px;
+    padding: 5px;
+    margin: 0 auto;
+    }
+#pinterest{
+    font-size: 30px;
+    color: red;
+    position: relative;
+    left: 39px;
+    padding: 5px;
+    margin: 0 auto;
+    
+}
+img{
+    display: inline;
+    padding: 0px;
+    margin: 5px auto;
+    height: auto;
+    max-width: 100%;
+    
+}
+
+#visa{
+    font-size: 30px;
+    color: darkblue;
+    position: relative;
+    padding: 5px;
+    margin: 5px auto;
+   }
+#applePay{
+    font-size: 30px;
+    color: black;
+    position: relative;
+    padding: 5px;
+    margin: 5px auto;
+}
+#amex{
+     font-size: 30px;
+    color: blue;
+    position: relative;
+    padding: 5px;
+    margin: 5px auto;
+}
+#googlePay{
+    font-size: 30px;
+    color: darkslategrey;
+    position: relative;
+    padding: 5px;
+    margin: 5px auto;
+    }
+#PayPal{
+    font-size: 30px;
+    color: blue;
+    position: relative;
+    padding: 5px;
+    margin: 5px auto;
+    }
+    
+#trademark{
+    font-size: 14px;
+    position: relative;
+    left: 120px;
+    padding: 5px;
+    margin: 5px auto;
+    }
+.organiCotton{
+    font-size: 13px;
+    color: orangered;
+    position: relative;
+}
+
+/* form*/  
+
+label{
+   color: black;
+    
+            }
+
+textarea{
+    width: 700px;
+    height:300px;
+  
+            }
+fieldset{
+    width: 900px;
+    margin: 40px;
+    padding: 10px;
+            }
+textarea{
+    resize: none;
+            }
+.legend{
+    font-size: 15px;
+    color: black;
+    text-align: center;
+
+            }
+
+input:hover{
+    background-color: whitesmoke;
+            }
+textarea:hover{
+    background-color: whitesmoke;
+            }
+.contact{
+    text-align: center;
+}
+/*form*/
+/*table*/
+table{
+    border:1px solid black;
+}
+td{
+    text-align: center;
+    padding: 5px;
+}
